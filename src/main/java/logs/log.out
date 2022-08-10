@@ -1,0 +1,8 @@
+2022-08-10 15:08:894 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-08-10 15:08:749 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-08-10 15:08:655 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-08-10 15:08:412 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-08-10 15:08:72 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-08-10 15:08:158 INFO  HomePage :56 - We are currently looking for:[[ChromeDriver: chrome on WINDOWS (6af37a1bea204c7ee7c4bd6da0699224)] -> css selector: h3[class='display-5']]
+2022-08-10 15:08:380 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-08-10 15:08:779 INFO  HomePage :56 - We are currently looking for:[[ChromeDriver: chrome on WINDOWS (1ea0b1ae6a97f702b783e51f7654522f)] -> css selector: h3[class='display-5']]

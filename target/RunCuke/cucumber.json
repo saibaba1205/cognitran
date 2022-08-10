@@ -1,0 +1,104 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 8884665800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "validation of careers functionality",
+        "description": "",
+        "id": "user-checking-functionality;validation-of-careers-functionality",
+        "after": [
+          {
+            "result": {
+              "duration": 982555500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 420980300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on the Homepage",
+            "match": {
+              "location": "MyStepdefs.iAmOnTheHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 173378800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I mouseHover on careers tab",
+            "match": {
+              "location": "MyStepdefs.iMouseHoverOnCareersTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 85140100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on students \u0026 graduates tab",
+            "match": {
+              "location": "MyStepdefs.iClickOnStudentsGraduatesTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 601440800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I should varify text we are currently looking for",
+            "match": {
+              "location": "MyStepdefs.iShouldVarifyTextWeAreCurrentlyLookingFor()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 62100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I should be able to click on submit your cv tab",
+            "match": {
+              "location": "MyStepdefs.iShouldBeAbleToClickOnSubmitYourCvTab()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "User Checking Functionality",
+    "description": "",
+    "id": "user-checking-functionality",
+    "keyword": "Feature",
+    "uri": "src/test/java/resources/featurefile/HomePage.feature"
+  }
+]
